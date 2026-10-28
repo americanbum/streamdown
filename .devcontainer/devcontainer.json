@@ -1,0 +1,9 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/juan-ayala/devcontainer-features/aem-lts:1": {},
+		"ghcr.io/juan-ayala/devcontainer-features/aem-repo-tool:1": {},
+		"ghcr.io/juan-ayala/devcontainer-features/aem-sdk:1": {},
+		"ghcr.io/juan-ayala/devcontainer-features/aem-universal-editor-service:1": {}
+	}
+}
